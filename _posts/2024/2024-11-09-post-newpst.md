@@ -1,11 +1,10 @@
 ---
 layout: posts
-title:  hello 2
+title: در کلاس چه گذشت
 ---
 
 - We wrote some code
 - We built our website
 - We pushed
-- we wrote
 
 # this is a header
