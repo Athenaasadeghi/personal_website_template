@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Athena Sadeghi"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/download.jpg"
   bio              : I'm the best student.
   location         : "تهران"
   email            : sauleh@gmail.com
