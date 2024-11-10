@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: postsnew
 title: hello 
 ---
 

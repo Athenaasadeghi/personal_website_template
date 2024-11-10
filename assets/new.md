@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: postsnew
 author_profile: true
 permalink: /new/
 title: new Posts
