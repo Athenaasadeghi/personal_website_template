@@ -1,5 +1,5 @@
 ---
-layout: postsnew
+layout: single
 author_profile: true
 permalink: /new/
 title: new Posts
@@ -11,3 +11,5 @@ Hello,world!
 I am a student of Computer Engineering .
 This is my first site.
 I hope you enjoy this site.
+
+
