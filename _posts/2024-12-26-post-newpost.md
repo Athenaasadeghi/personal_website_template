@@ -1,11 +1,10 @@
 ---
-layout: posts
-title:  hello 2
+layout: postsnew
+title: hello 
 ---
 
 - We wrote some code
 - We built our website
 - We pushed
-- we wrote
-
+- we 
 # this is a header
