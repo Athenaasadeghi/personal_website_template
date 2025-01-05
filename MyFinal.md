@@ -6,6 +6,11 @@ title: MyFinal
 tags: [MyFinal]
 modified: 01-05-2025
 comments: false
+---
+
+# MyFinal
+### Exam day shots
+
 gallery:
   - url: /assets/images/1.jpg
     image_path: /assets/images/1.jpg
@@ -30,4 +35,3 @@ gallery:
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
