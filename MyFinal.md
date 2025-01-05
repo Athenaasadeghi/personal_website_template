@@ -12,7 +12,8 @@ gallery:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 - [sample item 1](https://fccourse.liara.run)
 - sample item 2
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
