@@ -15,7 +15,11 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "new"
-    url: /new/
+    url: /new/4
+  - title: "MyFinal"
+    url: /MyFinal/
+    
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
