@@ -11,10 +11,6 @@ gallery:
     image_path: /assets/images/6.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
----
-
-![Exam day screenshot](/assets/images/6.jpg "Image 1 title caption")
-
 - [sample item 1](https://fccourse.liara.run)
 - sample item 2
 
